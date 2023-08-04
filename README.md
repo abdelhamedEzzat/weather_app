@@ -10,7 +10,7 @@ Weather application that helps you to know the temperatures
  - Two Page Ready-to-use 
 
 ## Getting Started
-This project is a starting point for a Flutter application.
+
 
 ### 1. Clone and Install
 ```
